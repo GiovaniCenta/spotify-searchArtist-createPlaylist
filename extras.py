@@ -1,0 +1,2 @@
+def alreadyExists(playlistName):
+    pass
